@@ -22,12 +22,13 @@ AI Engineer focused on LLM apps, RAG systems, automation, and production-ready b
 - LinkedIn: [arif-anis-1742b6341](https://www.linkedin.com/in/arif-anis-1742b6341/)
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Arif-306&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-306&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<p align="center">
+	<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arif-306&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-306&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ## Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif-306&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif-306&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 
 ## GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Arif-306&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
