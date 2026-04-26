@@ -30,9 +30,6 @@ AI Engineer focused on LLM apps, RAG systems, automation, and production-ready b
 ## Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif-306&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 
-## GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Arif-306&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
 ---
 
 <p align="center">Thanks for visiting my profile.</p>
